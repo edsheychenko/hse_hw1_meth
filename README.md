@@ -1,9 +1,10 @@
 # hse_hw1_meth
 
  Сcылки на collab:
- https://colab.research.google.com/drive/1EAQ--U6d-vnOH-hS-Qp4WENh4_HRfhNd#scrollTo=7f_1-58NuqHN
  
- https://colab.research.google.com/drive/1SzB-IGd4unkwrRR0RrA1EVTIPSS2X35Z?usp=sharing
+1) https://colab.research.google.com/drive/1EAQ--U6d-vnOH-hS-Qp4WENh4_HRfhNd#scrollTo=7f_1-58NuqHN
+ 
+2) https://colab.research.google.com/drive/1SzB-IGd4unkwrRR0RrA1EVTIPSS2X35Z?usp=sharing
  
 # 1.Анализ QC прочтений
 
