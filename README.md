@@ -16,10 +16,20 @@
 # 2. Работа с 3 образцами
  а)Работа с bam-files с выравниваниями BS-seq ридов на 11-ю хромосому мыши
 <img width="535" alt="image" src="https://user-images.githubusercontent.com/93148512/154526314-1bdd033d-7820-4b06-8b29-15d18ad84fdf.png">
+
  b)Дедупликация
  <img width="411" alt="image" src="https://user-images.githubusercontent.com/93148512/154526647-2e5ca26b-c772-47a8-9064-f3481cfed61f.png">
+ 
 *bash-скрипт:
 <img width="981" alt="image" src="https://user-images.githubusercontent.com/93148512/154527077-2c680a5a-14de-49a0-a5b2-ff1ebd06ed5c.png">
  
  с)Метелирование цитозинов проведено
- d)
+ d)Описание M-bias plot
+ В отчётах приведены графики с долей метелирования на хромосоме. Большая доля метелирования наблюдается на образце Epiblast (77-78%), затем оьразец 8_cell (42-45%), а самая маленькая у образца icm (22-24%)
+
+Epiblast:
+
+<img width="1270" alt="image" src="https://user-images.githubusercontent.com/93148512/154529271-9fa5f437-1a16-40e6-8799-fbf0010cb34a.png">
+<img width="1237" alt="image" src="https://user-images.githubusercontent.com/93148512/154529320-e269342e-9186-49a1-b5b9-d34113a4da86.png">
+
+8_cell:
