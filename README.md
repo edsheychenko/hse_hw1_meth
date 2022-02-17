@@ -29,7 +29,5 @@
 
 Epiblast:
 
-<img width="1270" alt="image" src="https://user-images.githubusercontent.com/93148512/154529271-9fa5f437-1a16-40e6-8799-fbf0010cb34a.png">
-<img width="1237" alt="image" src="https://user-images.githubusercontent.com/93148512/154529320-e269342e-9186-49a1-b5b9-d34113a4da86.png">
 
 8_cell:
