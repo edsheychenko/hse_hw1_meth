@@ -20,7 +20,7 @@
 
  # b)Дедупликация
  
- <img width="411" alt="image" src="https://user-images.githubusercontent.com/93148512/154526647-2e5ca26b-c772-47a8-9064-f3481cfed61f.png">
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/93148512/154723652-cb1c70bc-5ebf-43f8-9664-616482a0d87f.png">
  
 *bash-скрипт:
 
